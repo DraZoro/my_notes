@@ -1,12 +1,12 @@
-Welcome to ClemDocs
-===================
+Welcome to DraZNotes
+====================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-    submenus/git_toc
+   submenus/git_toc
 
 Indices and tables
 ==================
