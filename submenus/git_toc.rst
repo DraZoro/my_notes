@@ -1,3 +1,4 @@
+=======
 Git TOC
 =======
 
@@ -5,5 +6,3 @@ Git TOC
    :titlesonly:
 
    ../git/git_fundamentals
-
-   
