@@ -6,3 +6,4 @@ Python
    :titlesonly:
 
    ../python/python_types
+   ../python/werkzeug
