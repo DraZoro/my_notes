@@ -1,6 +1,6 @@
-=======
-Git TOC
-=======
+===
+Git 
+===
 
 .. toctree::
    :titlesonly:

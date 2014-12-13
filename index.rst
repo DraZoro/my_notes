@@ -7,6 +7,7 @@ Contents:
    :maxdepth: 2
 
    submenus/git_toc
+   submenus/python_toc
 
 Indices and tables
 ==================
