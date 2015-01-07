@@ -6,3 +6,4 @@ Firewalld
    :titlesonly:
 
    ../security/firewalld
+   ../security/tools
