@@ -2,6 +2,11 @@
 My summaries and notes
 ======================
 
+|build-status| |docs|
+
+Summary
+-------
+
 This is used to keep my notes in one place. `Sphinx`_ is used to build the
 documentation. 
 
