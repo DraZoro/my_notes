@@ -1,3 +1,4 @@
 rst2pdf==0.93.dev0
 Sphinx==1.5.2
 sphinx-bootstrap-theme==0.4.14
+sphinx-autobuild==0.6.0
