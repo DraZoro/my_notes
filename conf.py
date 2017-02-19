@@ -18,7 +18,6 @@ import sphinx_bootstrap_theme
 # ones.
 extensions = [
     'sphinx.ext.todo',
-    'sphinx.ext.mathjax',
 	'rst2pdf.pdfbuilder',
 ]
 
@@ -34,7 +33,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'DraZNotes'
-copyright = u'2014, Clement Thulani Mahlangu'
+copyright = u'2017, Clement Thulani Mahlangu'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
