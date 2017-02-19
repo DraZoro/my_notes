@@ -10,7 +10,7 @@ documentation.
 
 Building the documentation steps.
 
-1. Make the virtual environment using `_virtualenvwrapper`_.
+1. Make the virtual environment using `virtualenvwrapper`_.
 
    .. code:: bash
 
