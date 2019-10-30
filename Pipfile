@@ -7,6 +7,9 @@ verify_ssl = true
 
 [packages]
 sphinx = "*"
+sphinx-bootstraap-theme = "*"
+sphinx-bootstrap-theme = "*"
+rst2pdf = "*"
 
 [requires]
 python_version = "3.8"
