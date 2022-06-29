@@ -19,8 +19,27 @@ Building the documentation steps.
       pyenv virtualenv 3.8.0 sphinx 
       pyenv activate sphinx 
 
+1. Cloning and installation the packages. 
 
-3. Run the `sphinx-autobuild` environment. It will give the localhost URL.
+   .. code:: bash 
+
+      git clone https://github.com/DraZoro/my_notes.git
+      cd my_notes
+      python3 -m pip install --user --upgrade pip
+      python3 -m pip install --user virtualenv
+      python3 -m venv env
+      source env/bin/activate
+      pip install -r requirements.txt
+
+2. Manually building the documents, this example is for html. 
+
+   .. code:: bash
+
+      make html 
+
+
+
+3. To do explore use of `sphinx-autobuild` environment. 
 
    .. code:: bash
 
